@@ -196,6 +196,7 @@ a.menu-link {
     font-family: "Source Sans Pro";
     color:#FFFFFF;
     margin-bottom: 2%;
+    width: 55%;
 }
 
 #quote-author {
@@ -275,6 +276,8 @@ a.menu-link {
     font-weight: 700;
     margin-left: 5%;
     font-size: 16px;
+    color: #071629;
+    margin-top: 10%;
 }
 
 .tutorial-description {
