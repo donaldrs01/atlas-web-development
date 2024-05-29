@@ -10,6 +10,7 @@ header {
     /* display: flex; */
     background-image: url('images/background.png');
     background-size: cover;
+    background-attachment: fixed;
     margin: 0px;
     width: 100%;
     height: 1150px;
@@ -46,6 +47,7 @@ a.menu-link {
     font-weight: 700;
     font-family: 'Source Sans Pro';
     text-decoration: none;
+    letter-spacing: .05em; 
 }
 
 /* Banner */
@@ -137,6 +139,7 @@ a.menu-link {
 .pro-container {
     text-align: center;
     margin-top: 40px;
+    width: 150px;
 }
 
 .pro-img {
@@ -267,15 +270,25 @@ a.menu-link {
     left: 35%;
 }
 
+.tutorial-title {
+    font-family: "Source Sans Pro";
+    font-weight: 700;
+    margin-left: 5%;
+    font-size: 16px;
+}
+
 .tutorial-description {
     font-family: "Source Sans Pro";
     font-size: 14px;
+    line-height: 25px;
+    margin-left: 5%;
 }
 
 .tutorial-author {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    margin-left: 5%;
 }
 
 .author-details {
@@ -336,7 +349,7 @@ a.menu-link {
     margin-top: 3%;
     color: #FFFFFF;
     font-size: 32px;
-    font-weight: 50;
+    font-weight: 5;
 }
 
 #free {
