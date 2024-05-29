@@ -274,7 +274,7 @@ a.menu-link {
 .tutorial-title {
     font-family: "Source Sans Pro";
     font-weight: 700;
-    margin-left: 5%;
+    margin-left: 3%; 
     font-size: 16px;
     color: #071629;
     margin-top: 10%;
@@ -284,14 +284,14 @@ a.menu-link {
     font-family: "Source Sans Pro";
     font-size: 14px;
     line-height: 25px;
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 .tutorial-author {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 .author-details {
@@ -333,7 +333,8 @@ a.menu-link {
     font-weight: 600;
     color:#C271FF;
     margin: 0px;
-    font-family: "Source Sans Pro"
+    font-family: "Source Sans Pro";
+    margin-right: 5%;
 }
 
 /* Free Membership Section */
