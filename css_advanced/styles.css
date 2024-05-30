@@ -6,8 +6,9 @@ body {
     width: 100%;
 }
 
+/* Header */
+
 header {
-    /* display: flex; */
     background-image: url('images/background.png');
     background-size: cover;
     background-attachment: fixed;
@@ -59,7 +60,6 @@ a.menu-link {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex-grow: 1;
 }
 
 #banner {
