@@ -35,7 +35,7 @@ header {
 }
 
 #menu-container {
-    display: inline-flex;
+    display: flex;
     justify-content: center;
     gap: 55px;
     height: 30px;
