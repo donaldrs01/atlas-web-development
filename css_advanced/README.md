@@ -9,4 +9,4 @@ The project directory is fairly simple - it contains the HTML file, the CSS file
 The primary skills I built up through this project include building responsive designs using flexible layouts, CSS/HTML integration with proper and sensible ID and class tags, and different styling techniques associated with typography and images. 
 
 
-## [Link to Website] (https://donaldrs01.github.io/)
+## [Link to Website](https://donaldrs01.github.io/)
